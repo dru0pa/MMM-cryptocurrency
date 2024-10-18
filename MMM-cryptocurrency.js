@@ -136,7 +136,7 @@ Module.register("MMM-cryptocurrency", {
     chainlink: 1975,
     "apeswap-finance": 8497,
     "gala":7080,
-	  "pancakeswap":7186,
+    "pancakeswap":7186,
   },
 
   start: function () {
